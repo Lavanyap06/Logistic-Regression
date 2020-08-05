@@ -7,3 +7,5 @@ There is a target variable available which we will be using, and since there is 
 I have done some exploratory Data Analysis on the Farmingham dataset to find the relationship between the variables.
 
 Then I've used confusion matrix and classification report to find out the accuracy of our prediction.
+
+The dataset was obtained from Kaggle.
